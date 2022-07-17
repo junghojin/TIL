@@ -49,7 +49,7 @@
 
 | No.|     Title      | 기술스택 |                          Date                         | Code | 정리 | 분류 |
 | :--: |:------------: | :--: | :------------------------------------------------------: |:--:| :--:| :--:|
-| 1 |**Entity** |  ```Diagram```   | 2022.07.17 |- |[link]([https://edlin.tistory.com/entry/Jira-사용법](https://github.com/junghojin/TIL/blob/9c9814dd0a70ab4e110fbfcdb66f07f7adc8769d/DB/Entity.md))  | 개념 |
+| 1 |**Entity** |  ```Diagram```   | 2022.07.17 |- |[link](https://github.com/junghojin/TIL/blob/9c9814dd0a70ab4e110fbfcdb66f07f7adc8769d/DB/Entity.md)  | 개념 |
 | 3 |   |       | 2022.05.  |[link]()| ||
 | 4 |   |       | 2022.05.  |[link]()| ||
 | 5 |   |       | 2022.05.  |[link]()| ||
