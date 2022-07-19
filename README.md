@@ -21,8 +21,8 @@
 | No.|     Title      | 기술스택 |                          Date                         | Code | 정리 | 분류 |
 | :--: |:------------: | :--: | :------------------------------------------------------: |:--:| :--:| :--:|
 | 1 |**```.properties vs. .yml```** |  ```Spring Configuration```   | 2022.07.19 |- |[link](https://github.com/junghojin/TIL/blob/dc60f87b9547e01a69833b41f89c7e205e04d509/Spring/properties%EC%99%80yml%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)  | 개념 |
-| 2 | **Java8-** |  ``````     |  |-|[link]()  | 개념 |
-| 3 |   |       | 2022.05.  |[link]()| ||
+| 2 | **JWT 이전 알아야 할 것 1** |  ```Storage, Spring Security```     | 2022.07.19  |-|[link](https://github.com/junghojin/TIL/blob/768426a3773386ff2018af79b05fcbd2409772d9/Spring/JWT.pdf)  | 개념 |
+| 3 | **JWT 이전 알아야 할 것 2** |  ```서버기반인증, 토큰기반인증, CORS, JWT```     | 2022.07.19  |-|[link](https://github.com/junghojin/TIL/blob/768426a3773386ff2018af79b05fcbd2409772d9/Spring/JWT2.pdf)  | 개념 |
 | 4 |   |       | 2022.05.  |[link]()| ||
 | 5 |   |       | 2022.05.  |[link]()| ||
 | 6 |   |       | 2022.05.  |[link]()| ||
