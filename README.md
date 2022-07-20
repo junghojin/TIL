@@ -33,7 +33,7 @@
 | No.|     Title      | 기술스택 |                          Date                         | Code | 정리 | 분류 |
 | :--: |:------------: | :--: | :------------------------------------------------------: |:--:| :--:| :--:|
 | 1 |**Java8-Java Language** |  ```Java```   | 2022.07.10 |- |[link](https://junghojin.notion.site/Java-8-Java-Language-e6b3c18ab4e34ea49cad2013830de067)  | 개념 |
-| 2 | **Java8-** |  ``````     |  |-|[link]()  | 개념 |
+| 2 | **Comparator.comparing()** |  ```Java8```     |  |-|[link](https://edlin.tistory.com/entry/Java-comparing?category=946600)  | 개념 |
 | 3 |   |       | 2022.05.  |[link]()| ||
 | 4 |   |       | 2022.05.  |[link]()| ||
 | 5 |   |       | 2022.05.  |[link]()| ||
